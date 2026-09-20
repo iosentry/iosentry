@@ -1,4 +1,4 @@
-iosentry: sysadmin / dev / builder / maker && breaker of both hard & soft-ware
+iosentry: sysadmin / dev / builder / maker && breaker of both hard & soft-warez
 
 My name is Roman I spend the majority of my free time researching a wide variety or topics related to computer and information security. I have a particular interest in IoT 
 security, the weaponization of "smart devices", and system security models utilizing virtualization to effectively implement deep compartmentalization and system component isolation.
