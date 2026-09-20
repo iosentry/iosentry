@@ -5,9 +5,8 @@ security, the weaponization of "smart devices", and system security models utili
 
 Secure Boot, Intel TXT, BootGuard / Managed Boot, Trusted Platfotm Module utilization, integration, optimization and attack surface audit and analysis are my forte. Exploration of root-of-trust as attack surface has been the focal point of my recent work.
 
-Oversight of system level Ring 0 OS code using virtualized IO and memory management of individual aggregate systems via type-1 hardware virtualization running in Ring -1 (Xen Project) is of greaat interest to me. 
-In particular, hardening of the Dom0 Administrative Control Domain is ongoing work as can be seen in my XenUKI (experimental) which can boot a customized PE32+ EFI executable containing all components of the
-hypervisor and its host Domain 0 in a monolithic signable secure boot compliant Unified kernel Image.
+Creating computing environments tolerant of Ring 0 exploitation of OS code using immutable images, virtualized IO and memory management of individual aggregate systems via type-1 hardware virtualization running in Ring -1 (Xen Project) is of great interest to me. 
+In particular, hardening of the Dom0 Administrative Control Domain is ongoing work as can be seen in my XenUKI (experimental) which can boot a customized PE32+ EFI executable containing all components of the hypervisor and its host Domain 0 in a monolithic cryptographicly sign-able Secure Boot compliant Unified kernel Image.See repository XenUKI for an experimental but functional example that utilizes LVM on LUKS for disk encryption.
 
 IAM obsessed with authentication mechanisms...
 Not only their analysis and exploitation, but their design and implementation as well. I have built robust custom authentication mechanisms for heterogeneous 
@@ -15,6 +14,7 @@ research computing environments compliant to HIPAA regulatory control. One such 
 
 I also enjoy working with Open Weight LLM's quantized to run locally on mid-grade GPU's (8GB VRAM min.) which are customized to perform comprehensive system monitoring, maintenance, and reporting for use by organizations with highly confidential IP to protect and/or regulatory conpliance considerations. 
 
+I have been known to dance with the Intel Management Engine (ME) but we don't talk about that just anywhere. 
 
 <!---
 IO-sentry/IO-sentry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
